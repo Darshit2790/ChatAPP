@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#EEEEEE"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:paddingBottom="10dp"
+    android:paddingTop="5dp"
+    >
+
+    <ImageView
+        android:id="@+id/iv_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="5dp"
+        android:layout_alignParentLeft="true"
+        android:visibility="gone"
+        android:src="@drawable/left_aerrow"/>
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/iv_back_User_img"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_alignParentLeft="true"
+        android:visibility="gone"
+        android:src="@drawable/usertwo"/>
+
+    <TextView
+        android:id="@+id/tv_heading"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:text="HEADING"
+        android:textColor="#000000"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:id="@+id/iv_right_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15dp"
+        android:visibility="gone"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/group_icon_small"/>
+
+
+</RelativeLayout>
