@@ -206,7 +206,7 @@ public class Utills {
         DisplayMetrics displayMetrics = crnt_context.getResources()
                 .getDisplayMetrics();
 
-        int densityDpi = (int) (displayMetrics.densityDpi);
+        int densityDpi = displayMetrics.densityDpi;
         float ratio = (densityDpi / DisplayMetrics.DENSITY_DEFAULT);
         int px;
         if (ratio == 0) {
@@ -230,7 +230,7 @@ public class Utills {
         DisplayMetrics displayMetrics = crnt_context.getResources()
                 .getDisplayMetrics();
 
-        int densityDpi = (int) (displayMetrics.densityDpi);
+        int densityDpi = displayMetrics.densityDpi;
         float ratio = (densityDpi / DisplayMetrics.DENSITY_DEFAULT);
         int dp = -1;
         if (ratio == 0) {
@@ -449,7 +449,7 @@ public class Utills {
 
     }
 
-    public static Bitmap RGB565toARGB888(Bitmap img) throws Exception {
+    public static Bitmap RGB565toARGB888(Bitmap img) {
 
 
         int numPixels = img.getWidth() * img.getHeight();
@@ -469,7 +469,7 @@ public class Utills {
     /**
      * returning image / video
      */
-    public static File createImageFile() throws IOException {
+    public static File createImageFile() {
         File myDir = new File(Environment.getExternalStorageDirectory() + "/" + "Shatika");
         if (!myDir.exists()) {
             myDir.mkdirs();
