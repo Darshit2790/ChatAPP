@@ -13,8 +13,6 @@ import java.util.Map;
 
 import retrofit.Callback;
 import retrofit.http.Body;
-import retrofit.http.FieldMap;
-import retrofit.http.FormUrlEncoded;
 import retrofit.http.GET;
 import retrofit.http.Header;
 import retrofit.http.Multipart;
