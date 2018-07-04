@@ -16,8 +16,8 @@ public class Config {
     public static final String openfire_host_server_key = "--------------------";
     public static final String openfire_host_server_RESOURCE = "------------";
     public static final int openfire_host_server_PORT = 5222;
-    public static final String openfire_host_server_SERVICE = "darshitchatserver";
-    public static final String openfire_host_server_CONFERENCE_SERVICE = "conference.darshitchatserver";
+    public static final String openfire_host_server_SERVICE = "//////";
+    public static final String openfire_host_server_CONFERENCE_SERVICE = "conference.//////";
 
 
     public static AbstractXMPPConnection conn1;
