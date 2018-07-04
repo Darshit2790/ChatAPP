@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp"
+    >
+<!--
+    <GridView
+        android:id="@+id/iv_group"
+        android:layout_width="55dp"
+        android:divider="#DDDDDD"
+        android:scrollbars="none"
+        android:padding="0.5dp"
+        android:stretchMode="columnWidth"
+        android:background="#DDDDDD"
+        android:horizontalSpacing="0.5dp"
+        android:layout_alignParentLeft="true"
+        android:layout_height="55dp"/>-->
+
+
+    <ImageView
+        android:id="@+id/iv_group"
+        android:layout_width="55dp"
+        android:layout_alignParentLeft="true"
+        android:layout_height="55dp"/>
+
+
+
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="wrap_content"
+        android:layout_toRightOf="@+id/iv_group"
+        android:layout_marginLeft="5dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/lblListHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:text="I-AT-13088"
+        android:textColor="@color/green_app" />
+        <TextView
+            android:id="@+id/tv_transferee_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10dp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/tv_group_latest_message"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="7dp"
+            android:textSize="10dp"
+            android:layout_alignBottom="@id/layout"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/layout"
+            />
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:id="@+id/layout_right"
+        android:paddingBottom="20dp"
+        android:layout_width="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:text="00:00"
+            />
+
+        <ImageView
+            android:id="@+id/iv_expand_collapse"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center|bottom"
+            android:layout_marginTop="5dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/down_green_aerrow" />
+
+    </LinearLayout>
+
+</RelativeLayout>

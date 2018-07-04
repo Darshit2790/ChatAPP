@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.testfairy.sdk" >
+
+    <uses-sdk android:minSdkVersion="14" />
+
+    <!-- INTERNET is required for accessing TestFairy's servers -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- ACCESS_NETWORK_STATE is needed to know if we are on 3G, WIFI or disconnected -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- WRITE_EXTERNAL_STORAGE & REQUEST_INSTALL_PACKAGES is needed for auto-update -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+
+    <application>
+        <activity
+            android:name="com.testfairy.activities.ProvideFeedbackActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@android:style/Theme.Holo.Light" />
+        <activity
+            android:name="com.testfairy.activities.AutoUpdateActivity"
+            android:configChanges="orientation|screenSize" />
+    </application>
+
+</manifest>

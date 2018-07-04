@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jxmpp:jxmpp-jid:0.5.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-jid/0.5.0/eb66b23d633f6a8c01526a78507dac80afef239c/jxmpp-jid-0.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-jid/0.5.0/cd9e5d82c11aebf948aed1945c98b7196748b294/jxmpp-jid-0.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

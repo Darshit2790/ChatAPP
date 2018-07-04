@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_ff6406305aac6025da4e8fac3495efdc7ab7478f.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-resolver-minidns/4.1.0/5b8783270e55f49937492b23df34993c4e51c8d7/smack-resolver-minidns-4.1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5b8783270e55f49937492b23df34993c4e51c8d7">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/smack-resolver-minidns-4.1.0_de42b33e5c27deeac18b15dc933997890de352bc.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_b86e407cd859b87f5ea68752b822e15cf5270330.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.17/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="005d20a198159b87f65812fc5c51b2d84c5eba0a">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/io.fabric.sdk.android-fabric-1.3.17_b22541a7fd3eb1b8e9fde02d388fe97d56ecfbee.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.8/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="646439081688c43e04ec4aa7ba6915ddfdcc337f">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-2.6.8_8104696df946842cc66f17d6ae6aaecd33ab2499.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.17/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="461929440e66685425a298693507f6fb27b0a872">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-core-2.3.17_2ef92608e6ecf0b00a0b267a59eb4966def641a1.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.5/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="204f607419af8247cc1b2a61f50663c65f841c12">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-beta-1.2.5_d19cfafb05f4d7da32f06aa715acffa28fea77b1.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_046f95adada42ab70b7a0bb76fc9f42f5e9a9d4e.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-tcp/4.1.0/b5043991d7ed52da15089fcfcbca1dd862d1af42/smack-tcp-4.1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b5043991d7ed52da15089fcfcbca1dd862d1af42">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/smack-tcp-4.1.0_7490d8ab9c5c0bba2090290871bcd8d2951d84a4.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_09eac284886d1b7a4ad41711e66334a927e58343.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_23dfdc7a875f91f0d76d99c204f2f18889bb2952.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-sasl-provided/4.1.0/74422a92b7bba8eb633ceecdb017530b67451731/smack-sasl-provided-4.1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="74422a92b7bba8eb633ceecdb017530b67451731">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/smack-sasl-provided-4.1.0_62c8b2f6efb10c7bd861ee3f70b99c5b6ce00000.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-jid/0.5.0/eb66b23d633f6a8c01526a78507dac80afef239c/jxmpp-jid-0.5.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="eb66b23d633f6a8c01526a78507dac80afef239c">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/jxmpp-jid-0.5.0_fb73647f8799e497250eaa87e09508e0eb961822.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_a170f7c41753f2a7dee2546e6210a1ce17e79d46.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/se.emilsjolander/stickylistheaders/2.7.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3bdf77dbe58e0ec53a0178de532372e7c00859b9">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/se.emilsjolander-stickylistheaders-2.7.0_008aa955bee43eec3420f943c67e0a4cdf3f7990.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3e5e48b04a729ba3d117851d73ffd388622ddfef.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_b2c8af85ac1ddc353a8de5054037020118ecade6.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-extensions/4.1.0/b0968f9b209feb2f51d1a1e72238989271750625/smack-extensions-4.1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b0968f9b209feb2f51d1a1e72238989271750625">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/smack-extensions-4.1.0_c90fe4955416a1a1392d73667680cf37de209084.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_54398e6cf76168b7c632c282ed36d852003c2d80.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.13/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7045152f3bd1870740b9bcb1cddff495e189774e">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-answers-1.3.13_0c8374a1234c58a738348bd35e6fb52708d5c08c.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_d9b5f942a8770e0a1c4eed3a08191543ccbc9136.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-android/4.1.0/3da1ad907fe8eb0db80471b8837d3e51690fe13c/smack-android-4.1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3da1ad907fe8eb0db80471b8837d3e51690fe13c">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/smack-android-4.1.0_1ed602e91770412ace8e340af5b3703af8de9bcd.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-core/0.5.0/f87f6947d74e7d126965b8a58a5472bbbea5f956/jxmpp-core-0.5.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f87f6947d74e7d126965b8a58a5472bbbea5f956">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/jxmpp-core-0.5.0_c61aa0ce448a1ac9389797805a95d080edea05cc.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-im/4.1.0/4b6d736ad02f64ba54f4a5712a4a453a2c3848b1/smack-im-4.1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4b6d736ad02f64ba54f4a5712a4a453a2c3848b1">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/smack-im-4.1.0_674eb835b0279ff8e6e6ea353087a5099efb5913.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-util-cache/0.5.0/32752e1fdf24320a2363d9b92504abf05f9b6548/jxmpp-util-cache-0.5.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="32752e1fdf24320a2363d9b92504abf05f9b6548">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/jxmpp-util-cache-0.5.0_5ab3898f7bcf9d164305ed0e8db201828d67145b.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_796cd2568553a5f6d1b7a28357d110851372e091.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.1.0_48111f763c10c16a8b7686338122a0b57d819569.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c014b7a6da2ec932e5bf666b4bc7f63670de4123.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.0.0/afe8399d352713b66e597e9670c741d1e60ae923/okhttp-urlconnection-2.0.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.0.0_2c58e634f3ceb31fa4adefa547cc9b7c3e6d6aa3.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/gson-2.3.1_9e1ff20e2a6e25c962a20631c7907abde6f706ee.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_b52032133186f754619a68f1c4ff9adcf4505f86.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.0/2534c458682c73f5b9871131ab3098d3f987ca3/okio-1.0.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/okio-1.0.0_16decc439ebb584d6b20097daf226471028e6156.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_1afa559913d3b52334671bc1360b158cdfccb35f.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/okhttp-2.0.0_adef0ed7d7773b3e8d11b8da0e8ffb5ed671c871.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_ee043a9873b6933cd16f1632c6ff3328492e683b.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_0cc9816dd2f6ba582914814466d35c6c008a8fa5.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/libs/library-1.2.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="82eda228c92c1aab3c0c8626497f13baf249cdb4">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/library-1.2.2_ae724e7cee5259595d7c84ecaad3b96d27740ea6.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/2852e6e05fbb95076fc091f6d1780f1f8fe35e0f/commons-io-2.5.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/commons-io-2.5_278c11c5e06b9a0b234c817909d6d3754be59b45.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-core/4.1.0/ad5c17dc5fe7f383118c5a3f1818b8789b697930/smack-core-4.1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ad5c17dc5fe7f383118c5a3f1818b8789b697930">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/smack-core-4.1.0_c02b68a09beed8e009a0d42e20a1eec8f345e89c.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_12c19e40771adfab2b8123dff8b42d78ff4cd0f9.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_538c51e6a7edefb1f7e2677ac6a7f83de0233ba4.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/testfairy/testfairy-android-sdk/1.7.4/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5c949fd8cfe7aac42f41864f9ac5c53cf5dc27f6">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/testfairy-testfairy-android-sdk-1.7.4_4d9ca67ac9783f5b7b34584614791baed7a181b2.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-android-extensions/4.1.0/355b8e606f77ae354e86a84755d2dab9f7536121/smack-android-extensions-4.1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="355b8e606f77ae354e86a84755d2dab9f7536121">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/smack-android-extensions-4.1.0_d8f826cd042efb28029ca08ab82dd7b18999189e.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/.gradle/caches/modules-2/files-2.1/de.measite.minidns/minidns/0.1.7/993582d1455b93a5723d2af4b39d8679735b3550/minidns-0.1.7.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/minidns-0.1.7_3f50e01351f0d15368a7fade310bc1e65d439ebb.jar" />
+    </item>
+    <item
+        jar="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/zlinux/Darshit/Projects/ChatApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_158067a36a1e1932e51efccc11455f12d20e672a.jar" />
+    </item>
+
+</items>

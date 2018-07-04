@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/main_layout"
+    android:layout_centerInParent="true"
+    android:layout_height="wrap_content">
+    <include
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/action_bar"/>
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/header"
+        android:src="@drawable/user_round"
+        android:id="@+id/icon"
+        android:layout_centerHorizontal="true"
+        android:layout_height="150dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:layout_below="@id/icon"
+        android:layout_marginTop="10dp"
+        android:textColor="#96c86c"
+        android:id="@+id/tv_welcome"
+        android:layout_centerHorizontal="true"
+        android:text="Welcome to i-RMS IM App"/>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_marginTop="10dp"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:layout_below="@id/tv_welcome"
+    android:orientation="vertical"
+    >
+
+    <EditText
+        android:id="@+id/edt_loginname"
+        android:hint="Enter Login Name"
+        android:background="#F2F4F8"
+        android:padding="10dp"
+        android:drawablePadding="10dp"
+        android:drawableLeft="@drawable/user_grey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <EditText
+        android:id="@+id/edt_password"
+        android:hint="Enter Password"
+        android:background="#F2F4F8"
+        android:padding="10dp"
+        android:layout_marginTop="10dp"
+        android:drawablePadding="10dp"
+        android:inputType="textPassword"
+        android:drawableLeft="@drawable/lock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/incorrect_password"
+            android:text="Password Incorrect"
+            android:layout_alignParentLeft="true"
+            android:drawableLeft="@drawable/round_close"
+            android:textColor="#FAAA91"
+            android:drawablePadding="1dp"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/signin"
+            android:text="LOGIN"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            android:gravity="center"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:background="#8ED951"
+            android:textColor="#ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/signup"
+            android:visibility="gone"
+            android:text="Register on Openfire"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+</LinearLayout>
+</RelativeLayout>
