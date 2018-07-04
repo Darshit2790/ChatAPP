@@ -29,12 +29,13 @@ import retrofit.mime.TypedFile;
 public interface Webservices {
     /*DOCUMENT : System API v1.2*/
 
-    /*http://atoms.zmallplanet.com/API/Common/Login.aspx?AppsName=IM&LoginName=app.programming&Password=Irregular MD5(“apptest987”),Normal MD5(“apptest987”),EvenOddReversal(Normal MD5(“apptest987”+”IRMS”))*/
 
+
+/*
     //1.Login
     @GET("/Login.aspx")
     void LogintoServer(@QueryMap(encodeValues = false) Map<String, String> map, Callback<LoginAPI> callback);
-/*    http://atoms.zmallplanet.com/API/Common/UserProfile.aspx?AppsName=IM&UserName=app.programming&UserType=Consultant*/
+    *//*    http://atoms.zmallplanet.com/API/Common/UserProfile.aspx?AppsName=IM&UserName=app.programming&UserType=Consultant*//*
 
 
 
@@ -98,8 +99,7 @@ public interface Webservices {
 
 
     @GET("/userservice")
-    void updateUseronOpenfireServer(@QueryMap Map<String, String> map, Callback<String> callback);
-
+    void updateUseronOpenfireServer(@QueryMap Map<String, String> map, Callback<String> callback);*/
     /*6. Save Message*/
 /*
     @GET("/User.aspx")

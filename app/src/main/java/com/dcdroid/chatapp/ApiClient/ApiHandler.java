@@ -17,8 +17,8 @@ import retrofit.converter.GsonConverter;
 
 public class ApiHandler
 {
-    private static final String BASE_URL_COMMON = "http://atoms.zmallplanet.com/API/Common/" ;
-    private static final String BASE_URL_IM = "http://atoms.zmallplanet.com/API/InstantMessaging/" ;
+    private static final String BASE_URL_COMMON = "xxxxx" ;
+    private static final String BASE_URL_IM = "xxxxxxxx" ;
     private static final String BASE_URL_OPENFIRE =  "http://"+ Config.openfire_host_server_IP+":"+Config.openfire_host_server_PORT+"/plugins/restapi/v1/" ;
     private static final String BASE_URL_OPENFIRE_USER_SERVICE =  "http://"+ Config.openfire_host_server_IP+":"+Config.openfire_host_server_PORT+"/plugins/userService/" ;
     private static final long HTTP_TIMEOUT = TimeUnit.SECONDS.toMillis(60);
