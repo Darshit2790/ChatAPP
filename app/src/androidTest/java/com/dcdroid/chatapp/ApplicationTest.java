@@ -1,4 +1,4 @@
-package com.irmsimapp;
+package com.dcdroid.chatapp;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

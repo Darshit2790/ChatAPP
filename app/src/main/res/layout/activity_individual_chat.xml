@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/transparent"
-    tools:context="com.irmsimapp.Activity.IndividualChatActivity">
+    tools:context="com.dcdroid.chatapp.Activity.IndividualChatActivity">
     <include
         android:id="@+id/header"
         android:layout_width="match_parent"

@@ -6,7 +6,7 @@
     android:id="@+id/layout_main"
     android:visibility="visible"
     android:layout_height="match_parent"
-    tools:context="com.irmsimapp.Activity.GroupListActivity">
+    tools:context="com.dcdroid.chatapp.Activity.GroupListActivity">
 
     <include
         android:id="@+id/header"

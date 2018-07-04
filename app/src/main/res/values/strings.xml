@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">IMApp</string>
+    <string name="app_name">ChatApp</string>
     <string name="title_activity_group_chat">GroupChatActivity</string>
 
 

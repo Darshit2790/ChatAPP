@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:background="@android:color/transparent"
     android:layout_height="match_parent"
-    tools:context="com.irmsimapp.Activity.GroupChatActivity">
+    tools:context="com.dcdroid.chatapp.Activity.GroupChatActivity">
     <include
         android:id="@+id/header"
         android:layout_width="match_parent"
