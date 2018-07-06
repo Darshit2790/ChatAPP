@@ -8,4 +8,4 @@ Note : one using it has to configure the config.java (com.dcdroid.chatapp.Config
 
 
 
-Refer User Manual :- https://droidoverflow.blogspot.com/2018/07/create-chat-application-using-openfire.html
+Refer User Manual :- http://www.dcdroid.com/2018/07/create-chat-application-using-openfire.html
